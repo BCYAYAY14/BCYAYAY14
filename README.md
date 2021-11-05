@@ -20,7 +20,7 @@ Contact me:
 Discord: BCYAYAY#7899
 Email: [REDACTED]
 
-Codeing languages I know
+Coding languages I know
 Javascript
 HTML
 
